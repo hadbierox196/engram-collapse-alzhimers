@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Data — ADNI files cannot be committed publicly
+data/*.csv
+data/*.parquet
+data/*.tar
+data/*.tar.gz
+data/*.gz
+data/*.rda
+data/*.rds
+
+# Large results files — commit summary CSVs only, not raw parquet
+results/week5_sweep_results.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environments
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
