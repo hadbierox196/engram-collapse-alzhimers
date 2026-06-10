@@ -1,0 +1,4 @@
+Domain,N_subjects,Mean_slope,CI_lo,CI_hi,t_stat,p_value,Empirical_Rank
+Episodic_Memory,191,-0.02487,-0.0339,-0.01584,-5.399,0.0,1
+Working_Memory,191,-0.0242,-0.03382,-0.01458,-4.93,2e-06,2
+Semantic_Memory,191,-0.02184,-0.02994,-0.01375,-5.289,0.0,3
