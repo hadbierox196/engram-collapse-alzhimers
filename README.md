@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1264623579.svg)](https://doi.org/10.5281/zenodo.20727189)
+
+
 # Engram-collapse-AD
 
 Computational model of memory engram vulnerability in Alzheimer's disease.  
@@ -163,8 +166,7 @@ pyarrow >= 14.0.0
 
 ## Citation
 
-```
-[to be added on publication]
+```(https://doi.org/10.5281/zenodo.20727189
 ```
 
 ---
