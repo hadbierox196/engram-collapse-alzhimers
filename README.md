@@ -1,4 +1,4 @@
-# engram-collapse-AD
+# Engram-collapse-AD
 
 Computational model of memory engram vulnerability in Alzheimer's disease.  
 Attractor network predictions of sequential memory collapse across Braak stages, validated against ADNI longitudinal data.
