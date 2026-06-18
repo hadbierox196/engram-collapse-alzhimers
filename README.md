@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/1264623579.svg)](https://doi.org/10.5281/zenodo.20727189)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![Platform: Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-orange)](https://colab.research.google.com/)
 
 # Engram-collapse-AD
 
